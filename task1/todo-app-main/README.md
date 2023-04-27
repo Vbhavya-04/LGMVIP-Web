@@ -40,9 +40,7 @@ Users should be able to:
 | ![](./src/assets/design/mobile-design-dark.jpg) | ![](./src/assets/design/mobile-design-light.jpg) |
 
 ### Links
-
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/todo-app-E1WQLoL2_3)
-- Live Site URL: [Live site URL here](https://app-todo-25.netlify.app/)
+- Live Site URL: [Live site URL here](https://todo-bhavya.netlify.app/)
 
 ## My process
 
@@ -82,8 +80,3 @@ Now, I'm more confident in **MVC architecture**. Combining ES6 modules & ES6 cla
 ### Continued development
 
 Implementing this architecture using some frameworks/libraries such as ReactJS to optimize the app more & handle a large code base; coupled with both frontend & backend.
-
-## Author
-
-- Frontend Mentor - [@iprinceroyy](https://www.frontendmentor.io/profile/iprinceroyy)
-- Twitter - [@prince_popups](https://www.twitter.com/@prince_popups)
