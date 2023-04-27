@@ -2,5 +2,5 @@
 
 ## Task 1(Todo App)
 
-- ![Solution link](https://todo-bhavya.netlify.app/)
+- Live site: [Todo App](https://todo-bhavya.netlify.app/)
 
