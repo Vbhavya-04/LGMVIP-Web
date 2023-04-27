@@ -11,7 +11,6 @@
   - [Dependencies](#dependencies)
   - [Running this project locally](#running-locally)
   - [Continued development](#continued-development)
-  - [Author](#author)
 
 ## Overview
 
